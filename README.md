@@ -11,6 +11,7 @@ The second beneficiary of this framework will be the students searching for a go
 
 The third beneficiary of this system can be the people interested in reaping profits by investing money in share market particularly in buying/selling shares of the famous Software Companies. Also, many companies offer stock options to their employees as part of their compensation, so it’s an interesting perspective to have a look at the worth of the stocks and the stock performance of that company. For example, 10 shares of Google ($1226/stock) value higher than 100 shares of Yelp($35/stock) [Stock Prices as on today April 15, 2019]. Also, the stock performance of Google is steady than Yelp’s stock performance. So, if a student has offers from Google and Yelp, in terms of stock prices, he may prefer Google over Yelp.
 
+![Poster](https://github.com/shwetabharti/payBuddy/blob/master/PayBuddyPosterImage.jpg)
 
 ##### THE DATASET
 The data required to build this dashboard is not readily available. Hence our first step was to scrape the data from multiple sources on internet including levelsfyi.com, levels.fyi, Glassdoor, Paysa, Forbes etc. using the tool Outwit Hub. We collected over 800 records with following initial attributes so far and we intend to add more attributes (we plan to add a total of 12-14 attributes) as well as more records in our dataset:
